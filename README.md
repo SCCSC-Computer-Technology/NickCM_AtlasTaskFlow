@@ -1,6 +1,6 @@
-# AtlasTaskFlow [🔗](https://nickcm-atlastaskflow20261116135257-crdub8c8d2g3dvdx.westus3-01.azurewebsites.net/)
-                  ^
-              available now
+# AtlasTaskFlow 
+                  
+Available Here -> [🔗](https://nickcm-atlastaskflow20261116135257-crdub8c8d2g3dvdx.westus3-01.azurewebsites.net/)
 
 A collaborative project and task management application built with ASP.NET Core MVC.
 
